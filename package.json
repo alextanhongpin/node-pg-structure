@@ -2,6 +2,7 @@
   "name": "nodejs-pg-structure-starter",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "module",
   "license": "MIT",
   "dependencies": {
     "pg-structure": "^7.12.1"
